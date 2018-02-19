@@ -3,6 +3,7 @@
 int main()
 {
 	int i,k;
+	printf("Enter the values of k");
 	scanf("%d",&k);
 	char a[10]="laptop";
 	for(i=1;i<=k;i++)
